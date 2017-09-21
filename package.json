@@ -15,5 +15,6 @@
   "bugs": {
     "url": "https://github.com/sshelomentsev/datatables-package/issues"
   },
-  "homepage": "https://github.com/sshelomentsev/datatables-package#readme"
+  "homepage": "https://github.com/sshelomentsev/datatables-package#readme",
+  "readmeFilename": "README.md"
 }
