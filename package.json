@@ -1,0 +1,19 @@
+{
+  "name": "datatables-package",
+  "version": "0.0.1",
+  "description": "Datatables bundle",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"echo \\\"No test specified\\\" && exit 1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sshelomentsev/datatables-package.git"
+  },
+  "author": "Sergey Shelomentsev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sshelomentsev/datatables-package/issues"
+  },
+  "homepage": "https://github.com/sshelomentsev/datatables-package#readme"
+}
