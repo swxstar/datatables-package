@@ -8,13 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sshelomentsev/datatables-package.git"
+    "url": "git+https://github.com/swxstar/datatables-package.git"
   },
   "author": "Sergey Shelomentsev",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sshelomentsev/datatables-package/issues"
+    "url": "https://github.com/swxstar/datatables-package/issues"
   },
-  "homepage": "https://github.com/sshelomentsev/datatables-package#readme",
+  "homepage": "https://github.com/swxstar/datatables-package#readme",
   "readmeFilename": "README.md"
 }
